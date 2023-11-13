@@ -1,2 +1,2 @@
-# PICCalculator
-This is a PIC16F887 based on calculator 
+# PICVoltmeter
+This is a PIC16F887 based on DC voltmeter 
